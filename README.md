@@ -9,6 +9,7 @@ https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
 i use the yara32.exe and yare64.exe in version v4.1.3-1755. 
 
 
-Direktlink to the .yar file
-https://github.com/Neo23x0/signature-base/blob/master/yara/expl_log4j_cve_2021_44228.yar
-(please update frequently)
+Direktlink to the .yar file 
+https://github.com/Neo23x0/signature-base/blob/master/yara/expl_log4j_cve_2021_44228.yar 
+(please update frequently) 
+ 
