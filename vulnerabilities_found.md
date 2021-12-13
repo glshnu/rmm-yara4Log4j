@@ -30,3 +30,7 @@ Found CVE-2021-44228 vulnerability in
 ##### Powerchute  
 ...\APC\PowerChute\group1\lib\log4j-core-2.2.jar, log4j 2.2  
 ***
+#### RAMICRO  
+##### Rechtsanwalt Software
+...\RA-MICRO\RAMICRONET\libs3401\log4j-core-2.13.3.jar, log4j 2.13.3
+***
