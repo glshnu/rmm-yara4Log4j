@@ -6,6 +6,7 @@ Found CVE-2021-44228 vulnerability in:
 #### Anwaltspostfach beA  
 ##### Kommunikation Rechtsanwälte  
 ...\DATEV\PROGRAMM\K0005078\bea_client_security\bea-client-security_lib\log4j-core-2.13.3.jar, log4j 2.13.3
+...\AppData\Local\BRAK\beAClientSecurity\jars\log4j-core-2.14.1.jar, log4j 2.14.1 
 ***
 #### RED Medical Commander
 ##### Online Sprechstunden  
