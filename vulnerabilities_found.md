@@ -35,3 +35,8 @@ Found CVE-2021-44228 vulnerability in
 ##### Rechtsanwalt Software
 ...\RA-MICRO\RAMICRONET\libs3401\log4j-core-2.13.3.jar, log4j 2.13.3
 ***
+#### DELL  
+##### Hardware Managment
+...\DELL\Enterprise Manager\msagui\lib\log4j-core-2.3.D1.jar, log4j 
+...\Storage Manager\msagui\lib\log4j-core-2.3.D1.jar, log4j 2.3
+***
