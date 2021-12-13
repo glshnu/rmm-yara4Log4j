@@ -40,3 +40,8 @@ Found CVE-2021-44228 vulnerability in
 ...\DELL\Enterprise Manager\msagui\lib\log4j-core-2.3.D1.jar, log4j 
 ...\Storage Manager\msagui\lib\log4j-core-2.3.D1.jar, log4j 2.3
 ***
+#### WEKA  
+##### Verlag  
+...\WEKA\BGB und VOB für Architekten, Ingenieure und Behörden\webapp\WEB-INF\lib\log4j-core-2.1.jar, log4j 2.1  
+...\WEKA\GEG 2020\webapp\WEB-INF\lib\log4j-core-2.1.jar, log4j 2.1  
+***
