@@ -6,6 +6,10 @@ Found CVE-2021-44228 vulnerability in:
 #### Anwaltspostfach beA  
 ...\DATEV\PROGRAMM\K0005078\bea_client_security\bea-client-security_lib\log4j-core-2.13.3.jar 
 ***
+### RED Medical Commander
+Found CVE-2021-44228 vulnerability in 
+...\RED Medical Commander\commander.jar, log4j 2.11.2
+***
 #### UNIFI  
 Log4j 2.13.3 is used by UniFi Controller  
 ***
