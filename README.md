@@ -1,4 +1,4 @@
-# rmm-yara4Log4j 
+# Scan for Log4j 
 there are now two components. the first **YARA4Log4j** uses yara. the second uses **log4j2-scan** from logpresso.  
 yara scans for infections, logpresso scans for vulnerable jar files.  
 log4j2-scan is the prevention, YARA4Log4j is for searching on infected systems.  
