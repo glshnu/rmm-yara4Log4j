@@ -45,3 +45,14 @@ Found CVE-2021-44228 vulnerability in
 ...\WEKA\BGB und VOB für Architekten, Ingenieure und Behörden\webapp\WEB-INF\lib\log4j-core-2.1.jar, log4j 2.1  
 ...\WEKA\GEG 2020\webapp\WEB-INF\lib\log4j-core-2.1.jar, log4j 2.1  
 ***
+#### SAP  
+##### Business One   
+...\SAP\SAP Business One ServerTools\ServiceLayer\ServiceLayerController\webapps\ServiceLayerController.war (WEB-INF/lib/log4j-core-2.7.jar), log4j 2.7  
+...\SAP\SAP Business One SetupFiles\tomcat\webapps\ServiceLayerController\WEB-INF\lib\log4j-core-2.7.jar, log4j 2.7  
+...\SAP\SAP Business One ServerTools\Common\tomcat\webapps\ExtensionManager\WEB-INF\lib\log4j-core-2.7.jar, log4j 2.7  
+...\SAP\SAP Business One ServerTools\Common\tomcat\webapps\license\WEB-INF\lib\log4j-core-2.7.jar, log4j 2.7  
+...\SAP\SAP Business One ServerTools\Common\tomcat\webapps\LicenseControlCenter\WEB-INF\lib\log4j-core-2.7.jar, log4j 2.7  
+...\SAP\SAP Business One ServerTools\ExtensionManager\webapps\ExtensionManager.war (WEB-INF/lib/log4j-core-2.7.jar), log4j 2.7  
+...\SAP\SAP Business One ServerTools\LicenseHTTPS\webapps\license.war (WEB-INF/lib/log4j-core-2.7.jar), log4j 2.7  
+...\SAP\SAP Business One ServerTools\LicenseHTTPS\webapps\LicenseControlCenter.war (WEB-INF/lib/log4j-core-2.7.jar), log4j 2.7   
+***  
