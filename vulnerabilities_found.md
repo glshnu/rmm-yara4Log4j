@@ -14,7 +14,7 @@ Found CVE-2021-44228 vulnerability in
 ***
 #### UNIFI  
 ##### Steuerung Geräte z.B. Accesspoints von dem Hersteller Unifi  
-Log4j 2.13.3 is used by UniFi Controller  
+...\Ubiquiti UniFi\lib\log4j-core-2.12.1.jar, log4j 2.12.1  
 ***
 #### ELO  
 ##### Dokumenten Management  
@@ -26,4 +26,7 @@ Log4j 2.13.3 is used by UniFi Controller
 ...\IGEL\RemoteManager\elasticsearch\lib\log4j-core-2.11.1.jar, log4j 2.11.1  
 ...\IGEL\RemoteManager\rmguiserver\bin\log4j-core-2.10.0.jar, log4j 2.10.0  
 ***
-
+#### APC  
+##### Powerchute  
+...\APC\PowerChute\group1\lib\log4j-core-2.2.jar, log4j 2.2  
+***
