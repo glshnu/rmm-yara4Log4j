@@ -9,6 +9,8 @@ log4j2-scan is the prevention, YARA4Log4j is for searching on infected systems.
 the scanner engine is from logpresso  
 https://github.com/logpresso/CVE-2021-44228-Scanner
 
+**!!! i cannot say yet if logpresso is a trusted source !!!**
+
 
 ## YARA4Log4j 
 a datto component to scan for the log4j vulnerability with yara 
