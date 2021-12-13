@@ -10,6 +10,7 @@ the scanner engine is from logpresso
 https://github.com/logpresso/CVE-2021-44228-Scanner
 
 **!!! i cannot say yet if logpresso is a trusted source !!!**
+**you can check the source on https://github.com/logpresso/CVE-2021-44228-Scanner/releases**
 
 
 ## YARA4Log4j 
