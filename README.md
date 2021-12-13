@@ -24,7 +24,7 @@ https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
 i use the yara32.exe and yare64.exe in version v4.1.3-1755. 
 
 ## vulnerabilities found
-see 
+see https://github.com/glshnu/rmm-yara4Log4j/blob/main/vulnerabilities_found.md
   
 ## Links  
   
