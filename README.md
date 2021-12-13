@@ -13,3 +13,7 @@ Direktlink to the .yar file
 https://github.com/Neo23x0/signature-base/blob/master/yara/expl_log4j_cve_2021_44228.yar  
 (please update frequently)  
   
+Direktlink to Datto Community  
+https://community.datto.com/t5/Community-ComStore/RMM-with-YARA-to-find-Log4j-vulnerability-CVE-2021-44228/m-p/90902#M2149  
+  
+  
