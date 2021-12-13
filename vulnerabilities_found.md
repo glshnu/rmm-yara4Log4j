@@ -23,7 +23,7 @@ Log4j 2.13.3 is used by UniFi Controller
 #### IGEL  
 ##### Thinclient 
 ...\IGEL\RemoteManager\elasticsearch\bin\elasticsearch-sql-cli-7.9.2.jar, log4j 2.11.1  
-...\IGEL\RemoteManager\elasticsearch\lib\log4j-core-2.11.1.jar, log4j 2.11.1 
+...\IGEL\RemoteManager\elasticsearch\lib\log4j-core-2.11.1.jar, log4j 2.11.1  
 ...\IGEL\RemoteManager\rmguiserver\bin\log4j-core-2.10.0.jar, log4j 2.10.0  
 ***
 
