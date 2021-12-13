@@ -17,6 +17,6 @@ Direktlink to Datto Community
 https://community.datto.com/t5/Community-ComStore/RMM-with-YARA-to-find-Log4j-vulnerability-CVE-2021-44228/m-p/90902#M2149  
   
   
-FullLOg4J Scanner  
+FullLog4j Scanner  
 https://github.com/logpresso/CVE-2021-44228-Scanner  
   
