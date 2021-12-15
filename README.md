@@ -8,7 +8,6 @@ log4j2-scan is the prevention, YARA4Log4j is for searching on infected systems.
 ## log4j2-scan
 the scanner engine is from logpresso  
 https://github.com/logpresso/CVE-2021-44228-Scanner
-**you can check the source on https://github.com/logpresso/CVE-2021-44228-Scanner/releases**
 
 
 ## YARA4Log4j 
